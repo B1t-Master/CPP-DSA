@@ -25,9 +25,9 @@ Write a program that:
 
 - Prompts the user to enter the radius
 - Calculates the volume of a sphere using:
-
+  $$
   V = \frac{4}{3} \pi r^3
-
+  $$
 - Use the built-in C++ exponential function for calculating r^3
 
 ### Question 3: Square Area & Perimeter (Functions)
@@ -36,8 +36,8 @@ Write a program using functions that:
 
 - Takes the side length of a square as input
 - Computes:
-  - Area
-  - Perimeter
+  1. Area
+  2. Perimeter
 - Displays both results
 
 ### Question 4: Character Case Checker (Functions)
@@ -46,8 +46,8 @@ Write a program that:
 
 - Accepts a character input from the user
 - Determines whether it is:
-  - Uppercase
-  - Lowercase
+  1. Uppercase
+  2. Lowercase
 - Uses functions to implement the logic
 
 ### Question 5: Pseudocode Conversion
