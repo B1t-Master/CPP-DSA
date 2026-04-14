@@ -6,17 +6,17 @@ using namespace std;
 
 int main(){
     int i = 0;
-    int values[5];
+    double values[5];
     double sum;
     cout << "Enter 5 numbers to calculate their avaerage"<<endl;
-    while (i<6){
+    while (i<5){
         cout<< "Enter the " << i << "th number: " <<endl;
         cin>> values[i];
         sum+=values[i];
         i++;
     }
 
-    cout<< "The average is: "<<sum/5;
+    cout<< "The average is: "<<sum/5.0;
     return 0;
 
 }

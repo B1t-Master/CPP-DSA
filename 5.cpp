@@ -20,8 +20,8 @@ int main(){
     float y = 20;
 
     while (y>5){
+        y-=4;
         x=x+2/y;
-        y--;
     }
 
     cout<<x;

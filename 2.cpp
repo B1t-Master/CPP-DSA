@@ -12,7 +12,7 @@ int main(){
     cout << "radius? ";
     cin >> radius;
 
-    double volume = pow(radius,3) * 4/3 * M_PI;
+    double volume = pow(radius,3) * 4.0/3.0 * M_PI;
     cout << "Volume of sphere: "<< volume;
     return 0;
 }
