@@ -1,4 +1,4 @@
-# Practical Exercise 1: C++ Programming & Data Structures Refresher
+# C++ Programming & Data Structures Refresher - 169647
 
 > **AI Disclosure:** ChatGPT (GPT-5.3) was used to assist in drafting the structure by copying over the pdf with instructions into this README file but final touches were done by me. All programming solutions were independently written and verified by me.
 
@@ -26,7 +26,7 @@ Write a program that:
 - Prompts the user to enter the radius
 - Calculates the volume of a sphere using:
 
-V = \frac{4}{3} \pi r^3
+  V = \frac{4}{3} \pi r^3
 
 - Use the built-in C++ exponential function for calculating r^3
 
