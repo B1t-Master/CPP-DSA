@@ -24,10 +24,7 @@ Write a program that:
 Write a program that:
 
 - Prompts the user to enter the radius
-- Calculates the volume of a sphere using:
-  $$
-  V = \frac{4}{3} \pi r^3
-  $$
+- Calculates the volume of a sphere
 - Use the built-in C++ exponential function for calculating r^3
 
 ### Question 3: Square Area & Perimeter (Functions)
